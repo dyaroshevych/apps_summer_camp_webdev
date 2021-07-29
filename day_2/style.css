@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+nav,
+article {
+  width: 100%;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  padding: 0;
+}
+
+article {
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Style the footer */
+footer {
+  background: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Style for text about animals */
+.animal {
+  color: red;
+}
