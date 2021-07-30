@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.top-container {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: red;
+  left: 200px;
+}
+.middle-container {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: yellow;
+  bottom: 100px;
+  left: 100px;
+}
+.bottom-container {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  background-color: green;
+  bottom: 200px;
+}

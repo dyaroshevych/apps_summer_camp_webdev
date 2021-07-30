@@ -1,0 +1,12 @@
+body {
+  height: 5000px;
+}
+
+.fixed-container {
+  height: 300px;
+  width: 300px;
+  position: fixed;
+  background-color: red;
+  left: 100px;
+  top: 100px;
+}

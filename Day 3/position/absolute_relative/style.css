@@ -1,0 +1,30 @@
+.main-container {
+  position: relative;
+}
+
+.top-container {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  background-color: red;
+  left: 100px;
+  top: 100px;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  background-color: yellow;
+  top: 200px;
+  left: 200px;
+}
+
+.bottom-container {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  background-color: green;
+  top: 300px;
+  left: 300px;
+}
